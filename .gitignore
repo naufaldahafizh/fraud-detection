@@ -9,6 +9,11 @@ data/
 __pycache__/
 *.pyc
 
+# Database config file
+notebooks/
+*.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
