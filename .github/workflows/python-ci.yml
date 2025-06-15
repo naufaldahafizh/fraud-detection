@@ -19,4 +19,4 @@ jobs:
     - name: Run notebook
       run: |
         pip install nbconvert
-        jupyter nbconvert --execute notebooks/fraud_detection.ipynb --to html
+        jupyter nbconvert notebooks/fraud_detection.ipynb --to html
