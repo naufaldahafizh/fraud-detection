@@ -14,7 +14,7 @@ You can download it from the [Kaggle Credit Card Fraud Dataset](https://www.kagg
 Place the file as: `fraud-detection/data/creditcard.csv`
 
 ## Project Structure
-
+```
 fraud-detection/
 │
 ├── notebooks/ # EDA, modeling, evaluation
@@ -45,7 +45,7 @@ fraud-detection/
 └── .github/workflows/ # CI/CD using GitHub Actions
   └── docker-build.yml
   └── python-ci.yml
-
+```
 
 ---
 
