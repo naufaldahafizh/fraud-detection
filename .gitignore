@@ -10,8 +10,8 @@ __pycache__/
 *.pyc
 
 # Database config file
-notebooks/
-*.py
+sql/*.py
+
 
 
 # Byte-compiled / optimized / DLL files
