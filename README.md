@@ -94,7 +94,13 @@ Then visit: http://localhost:8000/docs
 - Demonstrated full MLOps lifecycle from data → model → API → logging
 
 
+# UPDATE
+- MLflow
+- Run: `python src/train_model.py` and `mlflow ui`
+
+
 License
+
 MIT License
 
 

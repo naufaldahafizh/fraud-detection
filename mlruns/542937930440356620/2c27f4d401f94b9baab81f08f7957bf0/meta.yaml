@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/fraud-detection/mlruns/542937930440356620/2c27f4d401f94b9baab81f08f7957bf0/artifacts
+end_time: 1752119129552
+entry_point_name: ''
+experiment_id: '542937930440356620'
+lifecycle_stage: active
+run_id: 2c27f4d401f94b9baab81f08f7957bf0
+run_name: Logistic Regression
+run_uuid: 2c27f4d401f94b9baab81f08f7957bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752119121807
+status: 3
+tags: []
+user_id: ACER

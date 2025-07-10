@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/fraud-detection/mlruns/542937930440356620/4f73ffe578d0486bb12e564cc2c95fb4/artifacts
+end_time: 1752121389305
+entry_point_name: ''
+experiment_id: '542937930440356620'
+lifecycle_stage: active
+run_id: 4f73ffe578d0486bb12e564cc2c95fb4
+run_name: Random Forest
+run_uuid: 4f73ffe578d0486bb12e564cc2c95fb4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752121377170
+status: 3
+tags: []
+user_id: ACER

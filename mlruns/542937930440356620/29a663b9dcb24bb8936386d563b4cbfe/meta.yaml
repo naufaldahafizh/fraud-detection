@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ACER/fraud-detection/mlruns/542937930440356620/29a663b9dcb24bb8936386d563b4cbfe/artifacts
+end_time: 1752119146207
+entry_point_name: ''
+experiment_id: '542937930440356620'
+lifecycle_stage: active
+run_id: 29a663b9dcb24bb8936386d563b4cbfe
+run_name: XGBoost
+run_uuid: 29a663b9dcb24bb8936386d563b4cbfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752119138405
+status: 3
+tags: []
+user_id: ACER
